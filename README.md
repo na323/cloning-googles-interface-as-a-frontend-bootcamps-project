@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/na323/cloning-googles-interface-as-a-frontend-bootcamps-project/blob/main/README.md#1-intro)
 * [2. Qué construí?](https://github.com/na323/cloning-googles-interface-as-a-frontend-bootcamps-project/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/na323/cloning-googles-interface-as-a-frontend-bootcamps-project/blob/main/README.md#objetivo-del-proyecto)
 
 *****
 
@@ -19,5 +19,5 @@ En este proyecto me enfoqué en la clonación de la interfaz de Google con las s
 *  **Main**: Sección del contenedor para los elementos centrales de la página:
 *  **Footer**: Sección que incluye hipervinculos al final de la página.
 
-## Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTMLS y los estilos de CSS3.
