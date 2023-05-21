@@ -1,4 +1,4 @@
-# Cloning Google's interface as a frontend bootcamp's project
+# Cloning Google's interface as a frontend bootcamp project
 
 ## ÍNDICE
 
